@@ -3,3 +3,8 @@ Move the processing [work] to where the data [material] exists
 
 DATA | Repetitive (STRUCT | low val records) V. Non-repititive (UNSTRUCT | high val records)
 Does data repeat itself endlessly?
+
+Unpersisted metadata is only an approximation of itself.
+The classes are persisted and the objects are not.
+
+pensamiento estratégico de negocios
